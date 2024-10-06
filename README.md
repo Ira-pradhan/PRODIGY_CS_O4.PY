@@ -3,7 +3,7 @@ TASK-04
 
 Create a basic keylogger program that records and logs keystrokes. Focus on logging the keys pressed and saving them to a file. Note: Ethical considerations and permissions are crucial for projects involving keyloggers.
 
-Simple Keylogger
+Simple Keylogger:
 A keylogger is a program that records keystrokes made on a keyboard. It logs every key press and can save the logged data to a file for analysis. Keyloggers can be used for legitimate purposes like monitoring children's activity or testing software, but they can also be used for unethical purposes, such as stealing passwords or sensitive information. This is why ethical use and getting proper consent are crucial when developing or using such software.
 
 How a Simple Keylogger Works:
